@@ -1,0 +1,15 @@
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/Order/Order/Order/bin/Debug/net7.0/Order
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/Order/Order/Order/bin/Debug/net7.0/Order.deps.json
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/Order/Order/Order/bin/Debug/net7.0/Order.runtimeconfig.json
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/Order/Order/Order/bin/Debug/net7.0/Order.dll
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/Order/Order/Order/bin/Debug/net7.0/Order.pdb
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/Order/Order/Order/obj/Debug/net7.0/Order.csproj.AssemblyReference.cache
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/Order/Order/Order/obj/Debug/net7.0/Order.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/Order/Order/Order/obj/Debug/net7.0/Order.AssemblyInfoInputs.cache
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/Order/Order/Order/obj/Debug/net7.0/Order.AssemblyInfo.cs
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/Order/Order/Order/obj/Debug/net7.0/Order.csproj.CoreCompileInputs.cache
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/Order/Order/Order/obj/Debug/net7.0/Order.dll
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/Order/Order/Order/obj/Debug/net7.0/refint/Order.dll
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/Order/Order/Order/obj/Debug/net7.0/Order.pdb
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/Order/Order/Order/obj/Debug/net7.0/Order.genruntimeconfig.cache
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/Order/Order/Order/obj/Debug/net7.0/ref/Order.dll
